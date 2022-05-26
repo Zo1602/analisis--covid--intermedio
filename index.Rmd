@@ -1,0 +1,37 @@
+---
+title: "Analisis de datos de covid-19 en Costa Rica- Graficos del paquete ggplot2"
+author: "Sofía Moya"
+date: '2022-05-26'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Entradas
+
+# Procesamiento
+
+# Salidas
+
+## Datos nacionales
+
+### Tabla
+
+### Graficos de lineas 
+
+## Datos cantonales
+
+### Tabla
+
+### Gráfico de barras 
+
+##
+
+
+
+
+
+
